@@ -10,9 +10,15 @@
 - LDA와 BERTopic을 비교합니다.
 
 ## 📙사용방법
-- TBD
+1) python 3.11 버전의 conda 가상환경을 생성하세요.
+
+2) requirements.txt 내의 라이브러리를 설치하세요.
+
+3) .ipynb 파일로 실습하세요.
 
 ## 🔧log
 - ubuntu 환경에서 작성되었습니다.
 
-- 윈도우에서 진행 시 bertopic 설치 과정에서 에러가 발생합니다. conda로 따로 설치해 주세요.
+- python 3.11 버전을 사용하였습니다.
+
+- 23.12.26 윈도우에서 진행 시 bertopic 설치 과정에서 [Visual Studio](https://visualstudio.microsoft.com/ko/visual-cpp-build-tools) 설치를 요구합니다. 해당 링크에서 다운로드하여 진행하세요.

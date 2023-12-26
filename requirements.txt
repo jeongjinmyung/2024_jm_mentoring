@@ -1,5 +1,8 @@
 gensim
+pyLDAvis
 bertopic
+wordcloud
+nbformat
 kiwipiepy
 matplotlib
 openpyxl
