@@ -20,3 +20,4 @@
 
 ## 🔧log
 - 23.12.26 윈도우에서 진행 시 bertopic 설치 과정에서 [Visual Studio](https://visualstudio.microsoft.com/ko/visual-cpp-build-tools) 설치를 요구합니다. 해당 링크에서 다운로드하여 진행하세요.
+- 24.01.03 topics over time의 시각화 결과를 따로 출력해서 볼 수 있도록 작성하였습니다.
