@@ -18,7 +18,7 @@ git clone https://github.com/jeongjinmyung/2024_jm_mentoring.git
 conda create -n mentoring python=3.11
 conda activate mentoring
 ```
-3) requirements.txt 내의 라이브러리를 설치하세요.
+2) requirements.txt 내의 라이브러리를 설치하세요.
 ```
 pip install -r requirements.txt
 ```
