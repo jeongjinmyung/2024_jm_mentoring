@@ -19,7 +19,9 @@ conda create -n mentoring python=3.11
 conda activate mentoring
 ```
 3) requirements.txt 내의 라이브러리를 설치하세요.
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 3) .ipynb 파일로 실습하세요.
 
 ## 🔧log
