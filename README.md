@@ -1,7 +1,7 @@
 # 2024년 연구실 신입생 멘토링
 - 시작일: 2월 5일 월요일
 - 시간: TBD
-- 참석인원: 8명
+- 참석인원: 7명
 - 예상 소요시간: 1시간
 
 ## ✨소개
@@ -13,9 +13,13 @@
 
 ## 📙사용방법
 1) python 3.11 버전의 conda 가상환경을 생성하세요.
-
-2) requirements.txt 내의 라이브러리를 설치하세요.
-
+```
+git clone https://github.com/jeongjinmyung/2024_jm_mentoring.git
+conda create -n mentoring python=3.11
+conda activate mentoring
+```
+3) requirements.txt 내의 라이브러리를 설치하세요.
+```pip install -r requirements.txt```
 3) .ipynb 파일로 실습하세요.
 
 ## 🔧log
